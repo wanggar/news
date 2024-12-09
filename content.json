@@ -1,0 +1,15 @@
+{
+  "articles": [
+    {
+      "title": "How to Learn JavaScript",
+      "url": "https://example.com/javascript-tutorial",
+      "category": "tech"
+    },
+    {
+      "title": "Global Art Trends in 2024",
+      "url": "https://example.com/global-art",
+      "category": "art"
+    }
+  ]
+}
+
